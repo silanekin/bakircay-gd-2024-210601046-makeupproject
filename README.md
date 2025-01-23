@@ -1,5 +1,5 @@
 # bakircay-gd-2024-210601046-makeupproject
-Oyun linki: https://play.unity.com/en/games/b442e9c9-0d17-4deb-bf51-8f1978d63587/webgl-builds
+Oyun linki: https://play.unity.com/en/games/b442e9c9-0d17-4deb-bf51-8f1978d63587/webgl-builds                                                                                                                             
 Video linki: https://youtu.be/q_xxZr9O7aM
 
 # 3D Eşleştirme Oyunu
