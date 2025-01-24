@@ -15,6 +15,8 @@ Unity ile geliştirdiğim bu 3D eşleştirme oyununda, farklı renk ve şekiller
 - Eşleşme animasyonları ve görsel efektler
 - Highlight sistemi ile eşleşebilecek objelerin vurgulanması
 - Devam eden skor sistemi
+- WindSkill
+- JumpSkill
 
 ## Geliştirme Süreci
 
